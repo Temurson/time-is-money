@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Temur Saidkhodjaev",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-google": "0.13.0"
