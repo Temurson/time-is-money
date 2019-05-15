@@ -1,0 +1,16 @@
+{
+  "name": "time_is_money",
+  "version": "0.0.1",
+  "description": "An extension that helps you manage your time on YouTube.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Temur Saidkhodjaev",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-google": "0.13.0"
+  }
+}
